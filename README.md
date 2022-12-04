@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Front-end web development calls to all my passions; it incorporates creativity and problem solving and I'm allowed to break it to improve the code (in a separate Git branch, of course).
+### Front-end web development calls to all my passions; it incorporates creativity and problem solving and I'm allowed to break it to improve the code (in a separate Git branch, of course).
 
 - 📂 I love to work with JavaScript/Typescript
 - 🌱 I’m currently learning Flutter
