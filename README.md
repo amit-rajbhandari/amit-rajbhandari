@@ -5,7 +5,7 @@
 - 📂 I love to work with JavaScript/Typescript
 - 🌱 I’m currently learning Flutter
 - 🔭 Read more about my projects at [amitrajbhandari.com.np](https://portfolio-jet-two-90.vercel.app/#projects)
-- 📫 How to reach me: [amit.fist@gmail.com](mailto:amit.fist@gmail.com)
+- 📫 How to reach me: [amitrjbhandari@gmail.com](mailto:amitrjbhandari@gmail.com)
 - 🥅 Goals: Be moldable, but still keep my creative flare intact
 - ⚡ Fun fact: I’m a fast learner, able to juggle different projects and roles with relative ease.
 
