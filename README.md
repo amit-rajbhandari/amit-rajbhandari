@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<a href="https://amitrajbhandari.com.np" target="_blank" rel="noreferrer"><img align="center" src="https://portfolio-jet-two-90.vercel.app/images/hexa-logo.svg" alt="amit" height="60" width="60" /></a>
+<!-- <a href="https://amitrajbhandari.com.np" target="_blank" rel="noreferrer"><img align="center" src="https://portfolio-jet-two-90.vercel.app/images/hexa-logo.svg" alt="amit" height="60" width="60" /></a> -->
 <a href="https://www.linkedin.com/in/amit-rajbhandari" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="https://www.behance.net/amitrb" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="amit" height="40" width="40" /></a>
 <a href="https://www.instagram.com/amit_rajbhandari" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="40" width="40" /></a>
