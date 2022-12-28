@@ -4,8 +4,8 @@
 
 - 📂 I love to work with JavaScript/Typescript
 - 🌱 I’m currently learning Flutter
-- 🔭 Read more about my projects at [amitrajbhandari.com.np](https://amitrajbhandari.com.np)
-- 📄 Know about my experiences [amitrajbhandari.com.np](https://amitrajbhandari.com.np)
+- 🔭 Read more about my projects at [amitrajbhandari.com.np](https://www.amitrajbhandari.com.np/#projects)
+- 📄 Know about my experiences [amitrajbhandari.com.np](https://www.amitrajbhandari.com.np/#experience)
 - 💬 Ask me about **react, sass, css**
 - 📫 How to reach me: [amitrjbhandari@gmail.com](mailto:amitrjbhandari@gmail.com)
 - 🥅 Goals: Be moldable, but still keep my creative flare intact
