@@ -3,7 +3,6 @@
 ### Front-end web development calls to all my passions; it incorporates creativity and problem solving and I'm allowed to break it to improve the code (in a separate Git branch, of course).
 
 - 📂 I love to work with JavaScript/Typescript
-- 🌱 I’m currently learning Flutter
 - 🔭 Read more about my projects at [amitrajbhandari.com.np](https://www.amitrajbhandari.com.np/#projects)
 - 📄 Know about my experiences [amitrajbhandari.com.np](https://www.amitrajbhandari.com.np/#experience)
 - 💬 Ask me about **react, sass, css**
